@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning **Python and enrolling in an introductory course on Artificial Intelligence.**
 
 - 📫 How to reach me **Jeremiahakpor_CS@outlook.com**
+- I am also a university student studying computer science. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
