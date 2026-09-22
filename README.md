@@ -110,24 +110,6 @@ I'm currently focused on:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Jeremiah-Akpor&show_icons=true"
-    alt="Jeremiah Akpor GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Jeremiah-Akpor"
-    alt="Jeremiah Akpor GitHub Streak"
-  />
-</p>
-
----
-
 <p align="center">
   <strong>Build. Learn. Improve.</strong>
 </p>
