@@ -1,22 +1,133 @@
 
-![brand banner](./brand-banner.png)
-<h1 align="center">Hi 👋, I'm Jeremiah Akpor </h1>
-<h3 align="center">I have a passion for software development and I'm constantly exploring new technologies and techniques to improve my skills.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+![Jeremiah Akpor Banner](./brand-banner.png)
 
-- 🌱 I’m currently learning **in the process of creating Python project.**
+<h1 align="center">Hi 👋, I'm Jeremiah Akpor</h1>
 
-- 📫 How to reach me **Jeremiahakpor_CS@outlook.com**
-- I am also a university student studying computer science. **
+<h3 align="center">
+Computer Science Graduate • Software Developer • Linux & Self-Hosting Enthusiast
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/Jeremiah Akpor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremiah akpor" height="30" width="40" /></a>
+<p align="center">
+  Building software, learning by creating, and exploring the systems behind modern applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeremiah-akpor&show_icons=true&locale=en" alt="jeremiah-akpor" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiah-akpor&" alt="jeremiah-akpor" /></p>
+I'm **Jeremiah Akpor**, a Computer Science graduate with a strong interest in software development, full-stack web development, Linux, self-hosting, networking, and open-source technology.
+
+I enjoy learning by building real projects and experimenting with the technologies I use.
+
+I'm also the developer behind **[JeradAkcane](https://github.com/JeradAkcane)** — my developer brand for software projects, open-source work, self-hosted systems, and technical content.
+
+- 🔭 Currently building and improving software projects
+- 🌱 Learning and working with **React, TypeScript, Next.js, Python, and modern web development**
+- 🐧 Daily Linux user with an interest in infrastructure and self-hosting
+- 🖥️ Running and experimenting with homelab infrastructure and services
+- ⚙️ Interested in automation, networking, developer tooling, and open source
+- 💼 Currently preparing for software development and broader IT opportunities
+- 📫 Reach me at **Jeremiahakpor_CS@outlook.com**
+
+---
+
+## 🚀 What I'm Working With
+
+### Development
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
+</p>
+
+### Systems & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</p>
+
+Other areas I work with:
+
+- Linux
+- Proxmox
+- Containers
+- Self-hosting
+- Networking
+- Automation
+- Homelab infrastructure
+- Open-source software
+
+---
+
+## 🧪 Current Focus
+
+I'm currently focused on:
+
+- Full-stack web development
+- React / TypeScript / Next.js
+- Python
+- Building portfolio-ready projects
+- Improving software engineering fundamentals
+- Self-hosted infrastructure
+- Automation and developer tooling
+
+---
+
+## 🌐 JeradAkcane
+
+**JeradAkcane** is my developer brand and the home for my public software projects, open-source work, technical experiments, and future content.
+
+👉 [github.com/JeradAkcane](https://github.com/JeradAkcane)
+
+🌐 Website — Coming soon
+
+📺 YouTube — JeradAkcane
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Jeremiah Akpor LinkedIn"
+      height="30"
+      width="40"
+    />
+  </a>
+</p>
+
+📧 **Jeremiahakpor_CS@outlook.com**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Jeremiah-Akpor&show_icons=true"
+    alt="Jeremiah Akpor GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Jeremiah-Akpor"
+    alt="Jeremiah Akpor GitHub Streak"
+  />
+</p>
+
+---
+
+<p align="center">
+  <strong>Build. Learn. Improve.</strong>
+</p>
